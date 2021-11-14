@@ -1,0 +1,48 @@
+p
+{
+    background-color:black;
+    color: orange;
+    font-family: arial;
+    font-size: 20pt;
+}
+
+body
+{
+    background-image: url(pop.gif);
+     background-size: 25%;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position:right bottom ;
+
+}
+
+p:hover
+{
+    background-color:palevioletred;
+}
+
+
+p.vedio
+{
+    color: orange; 
+    background-color: purple;
+}
+
+p.vedio:hover
+{
+    background-color:palevioletred;
+}
+
+a
+{
+    background-color:black;
+    color: orange;
+    font-family: arial;
+    font-size: 20pt;
+}
+
+a:hover
+{
+    background-color:palevioletred;
+}
+
